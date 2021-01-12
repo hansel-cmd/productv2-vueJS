@@ -1,1 +1,2 @@
+User-Agent: *
 Sitemap: https://leftyy.netlify.app/sitemap.xml
